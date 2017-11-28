@@ -2,10 +2,12 @@ package solution;
 
 import java.util.Scanner;
 
-// Outputs string in a row unit input by user.
-// Maximum input string length and line is 100.
-// Allow blanks each side of input string.
-// Allow blank lines.
+/*
+ Outputs string in a row unit input by user.
+ Maximum input string length and line is 100.
+ Allow blanks each side of input string.
+ Allow blank lines.
+*/
 
 public class Sol_11719 {
 
@@ -28,3 +30,9 @@ public class Sol_11719 {
 		keyboard.close();
 	}
 }
+
+/*
+Memory : 9860KB
+Time : 112MS
+Code Length : 419B
+*/
